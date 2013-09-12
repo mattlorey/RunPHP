@@ -1,0 +1,5 @@
+[
+    {
+        "keys": ["alt+shift+r"], "command": "run_php"
+    }
+]
